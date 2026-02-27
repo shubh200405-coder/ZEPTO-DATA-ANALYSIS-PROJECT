@@ -61,6 +61,14 @@ Which products offer the best value based on price per gram?
 Which categories provide the highest average discounts?
 
 📊 Final Insights (Key Results)
+### 📌 Top 10 Best-Value Products
+![Best Value Products](./final_insight_best_value_products.PNG)
+
+### 📌 Estimated Revenue by Category
+![Revenue by Category](./final_insight_revenue_by_category.PNG)
+
+### 📌 Best Value Products by Price per Gram
+![Price per Gram](./final_insight_price_per_gram.PNG)
 
 Identified the top 10 products offering the highest discounts, helping understand aggressive pricing strategies.
 
